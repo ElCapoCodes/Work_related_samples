@@ -3,6 +3,8 @@ eval 'exec perl -S $0 ${1+"$@"}'
 
 =pod
 
+Author: Marlon Roa
+
 CLI EXAMPLES
 ============
 
