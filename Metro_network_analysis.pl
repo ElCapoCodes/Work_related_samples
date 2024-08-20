@@ -10,6 +10,8 @@ my $anillo_text = "anillo";
 
 =pod
 
+Author: Marlon Roa
+
 REQUIREMENT FOR CSV FILE
 ------------------------
 * No spaces or quotes in name
