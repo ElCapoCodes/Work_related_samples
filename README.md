@@ -1,6 +1,6 @@
 <h1> Work related scripts</h1>
 
-<p>The list shown below includes some samples of scripts that I create in my different roles to increase productivity. </p>
+<p>The following list provides examples of scripts I have developed in various roles to enhance productivity.</p>
 
 <table>
  <tr>
