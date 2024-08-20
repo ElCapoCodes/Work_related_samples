@@ -47,6 +47,7 @@
  
   <td>
   <p>Sample script used to automate the configuration to execute testing of our units.  This script was used as part of acceptance/homologation testing at Tier1 customer’s labs.</p>
+   <b>Output:</b> Configuration of our gear via telnet port.</p>
   </td>
   <td>Business Development Director</td>
  </tr>
@@ -70,7 +71,7 @@
  
   <td>
   <p>Sample script used to automate the configuration to execute testing of MRV units.</p>
-  <p><b>Output: Configuration of the DUT via telnet port.</b></p>
+  <p><b>Output:</b> Configuration of the DUT via telnet port.</p>
   </td>
   <td>Channel Program Manager</td>
  </tr>
