@@ -1,7 +1,6 @@
 <h1> Work related scripts</h1>
-<p>Most output files go thru post-processing for cosmetic
-purposes prior to be used (i.e., published). In addition, scripts have been
-modified to protect privacy.</p>
+
+<p>The list shown below includes script samples that I create in my different roles to increase productivity.</p>
 
 <table>
  <tr>
@@ -40,4 +39,7 @@ modified to protect privacy.</p>
  </tr>
  </table>
 
-samples
+<p>Most output files go thru post-processing for cosmetic
+purposes prior to be used (i.e., published). In addition, scripts have been
+modified to protect privacy.</p>
+
